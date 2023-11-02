@@ -1,0 +1,2 @@
+let add=document.querySelector("#btn");
+let newTaskInput=document.querySelector("#wra")
